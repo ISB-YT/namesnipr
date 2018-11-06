@@ -1,0 +1,15 @@
+C:\Users\Bonecrusher44.ELIGAMER\source\repos\WindowsFormsApp11\WindowsFormsApp11\bin\Debug\WindowsFormsApp11.exe.config
+C:\Users\Bonecrusher44.ELIGAMER\source\repos\WindowsFormsApp11\WindowsFormsApp11\bin\Debug\WindowsFormsApp11.exe.manifest
+C:\Users\Bonecrusher44.ELIGAMER\source\repos\WindowsFormsApp11\WindowsFormsApp11\bin\Debug\WindowsFormsApp11.application
+C:\Users\Bonecrusher44.ELIGAMER\source\repos\WindowsFormsApp11\WindowsFormsApp11\bin\Debug\WindowsFormsApp11.exe
+C:\Users\Bonecrusher44.ELIGAMER\source\repos\WindowsFormsApp11\WindowsFormsApp11\bin\Debug\WindowsFormsApp11.pdb
+C:\Users\Bonecrusher44.ELIGAMER\source\repos\WindowsFormsApp11\WindowsFormsApp11\obj\Debug\WindowsFormsApp11.Form1.resources
+C:\Users\Bonecrusher44.ELIGAMER\source\repos\WindowsFormsApp11\WindowsFormsApp11\obj\Debug\WindowsFormsApp11.Properties.Resources.resources
+C:\Users\Bonecrusher44.ELIGAMER\source\repos\WindowsFormsApp11\WindowsFormsApp11\obj\Debug\WindowsFormApp11.csproj.GenerateResource.cache
+C:\Users\Bonecrusher44.ELIGAMER\source\repos\WindowsFormsApp11\WindowsFormsApp11\obj\Debug\WindowsFormApp11.csproj.CoreCompileInputs.cache
+C:\Users\Bonecrusher44.ELIGAMER\source\repos\WindowsFormsApp11\WindowsFormsApp11\obj\Debug\WindowsFormsApp11.TrustInfo.xml
+C:\Users\Bonecrusher44.ELIGAMER\source\repos\WindowsFormsApp11\WindowsFormsApp11\obj\Debug\WindowsFormsApp11.exe.manifest
+C:\Users\Bonecrusher44.ELIGAMER\source\repos\WindowsFormsApp11\WindowsFormsApp11\obj\Debug\WindowsFormsApp11.application
+C:\Users\Bonecrusher44.ELIGAMER\source\repos\WindowsFormsApp11\WindowsFormsApp11\obj\Debug\WindowsFormsApp11.exe
+C:\Users\Bonecrusher44.ELIGAMER\source\repos\WindowsFormsApp11\WindowsFormsApp11\obj\Debug\WindowsFormsApp11.pdb
+C:\Users\Bonecrusher44.ELIGAMER\source\repos\WindowsFormsApp11\WindowsFormsApp11\obj\Debug\WindowsFormApp11.csprojAssemblyReference.cache
